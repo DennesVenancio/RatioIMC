@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">RatioIMC</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="newProcedure">Novo IMC</string>
+
+    <string name="weight">Peso</string>
+    <string name="height">Altura</string>
+
+    <string name="errorWeight">Informe o peso</string>
+    <string name="errorHeight">Informe a altura</string>
+
+    <string name="calculate">Calcular</string>
+    <string name="man">Homem</string>
+    <string name="woman">Mulher</string>
+    <string name="kid">Criança</string>
+    <string name="selectType">Selecione o tipo</string>
+    <string name="imc">IMC</string>
+
+
+    <string name="messageSuccess">Procedimento realizado</string>
+    <string name="messageError">Falha ao registrar procedimento</string>
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "440465476031",
+    "firebase_url": "https://calculo-imc.firebaseio.com",
+    "project_id": "calculo-imc",
+    "storage_bucket": "calculo-imc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440465476031:android:d8fea3a72078edd9",
+        "android_client_info": {
+          "package_name": "kurgomobi.ratioimc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440465476031-gbv1cqgoob69crod06p9eqd4at3161vf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kurgomobi.ratioimc",
+            "certificate_hash": "4B4657CC3892AEBC265CD5B7E3938550A97771C8"
+          }
+        },
+        {
+          "client_id": "440465476031-mhkg300qq6ms6k2mrn06qkpgj7rbdsin.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh0vFOfmhXIR8GhaXEN2fHf-nZwM-mvDo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440465476031-mhkg300qq6ms6k2mrn06qkpgj7rbdsin.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
